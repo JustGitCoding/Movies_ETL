@@ -17,5 +17,8 @@
 
 ### Point 2
 
-## Appendix
+## Resources:
+wikipedia-movies.json (data compiled using https://en.wikipedia.org)
+movies_metadata.csv (https://www.kaggle.com/rounakbanik/the-movies-dataset/download)
+ratings.csv (https://www.kaggle.com/rounakbanik/the-movies-dataset/download)
  
